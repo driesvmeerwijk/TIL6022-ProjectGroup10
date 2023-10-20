@@ -1,5 +1,0 @@
-import pandas as pd
-
-flight_data = 'data/vliegnu.csv'
-df = pd.read_csv(flight_data, encoding='latin1')
-df
